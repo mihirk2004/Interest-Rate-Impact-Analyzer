@@ -1,4 +1,4 @@
-# AI PBL: Interest Rate and Economic Indicators Prediction
+# Interest Rate and Economic Indicators Prediction
 
 This project is a multi-page Streamlit application for exploring how interest rates relate to major economic indicators such as GDP, inflation, loan rates, savings, and economic growth. It combines notebook-based model training, saved model artifacts, and a dashboard-style UI so users can interact with each prediction task from one home screen.
 
@@ -104,7 +104,7 @@ Several page files and notebooks currently use absolute Windows paths such as `E
 ## Project Structure
 
 ```text
-AI PBL/
+Interest-Rate-Impact-Analyzer/
 |-- index.py
 |-- pages/
 |-- dependencies/
@@ -116,6 +116,12 @@ AI PBL/
 |-- style1.css
 |-- requirements.txt
 ```
+## Frontend 
+
+![System Diagram](Group%206/Screenshot%20(124).png)
+![System Diagram](Group%206/Screenshot%20(126).png)
+![System Diagram](Group%206/Screenshot%20(136).png)
+![System Diagram](Group%206/Screenshot%20(139).png)
 
 ## Future Improvements
 
